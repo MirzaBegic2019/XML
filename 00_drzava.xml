@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<!DOCTYPE drzava SYSTEM "drzava.dtd">
+
+<drzave>
+    <drzava oznakaDrzave="BS">
+        <naziv>Bosna i Hercegovina</naziv> 
+        <glavniGrad>Sarajevo</glavniGrad> 
+        <opis>Opis Bosne i Hercegovine...</opis> 
+    </drzava> 
+    <drzava oznakaDrzave="SR">
+        <naziv>Srbija</naziv> 
+        <glavniGrad>Beograd</glavniGrad> 
+        <opis>Opis Srbije...</opis> 
+    </drzava> 
+</drzave>

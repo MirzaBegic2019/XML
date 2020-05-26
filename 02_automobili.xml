@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+
+<!-- Root element: automobili --> 
+<automobili> 
+    <automobil xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="automobiliSema.xsd" proizvodac="Audi"> 
+        <model>A4</model> 
+        <tip>Limuzina</tip> 
+        <karakteristike> 
+            <!-- Snaga u ks -->
+            <snaga>131</snaga> 
+            <vrata>5</vrata> 
+        </karakteristike> 
+    </automobil> 
+
+      <automobil proizvodac="Volkswagen"> 
+        <model>Golf 6</model> 
+        <tip>Karavan</tip> 
+        <karakteristike> 
+            <!-- Snaga u ks -->
+            <snaga>105</snaga> 
+            <vrata>5</vrata> 
+        </karakteristike> 
+    </automobil> 
+
+      <automobil proizvodac="Fiat"> 
+        <model>Punto</model> 
+        <tip>Limuzina</tip> 
+        <karakteristike> 
+            <!-- Snaga u ks -->
+            <snaga>70</snaga> 
+            <vrata>3</vrata> 
+        </karakteristike> 
+    </automobil> 
+
+</automobili> 
